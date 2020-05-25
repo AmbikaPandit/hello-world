@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+I am Ambika, an data anlyst with the skill sets - Python, SQL, hive.
